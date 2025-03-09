@@ -14,3 +14,5 @@ This repository will contain solutions to daily Codeforces problems throughout t
 - [Problem B](https://codeforces.com/problemset/problem/2007/B)
 - [Problem C](https://codeforces.com/problemset/problem/1174/B)
 - [Problem D](https://codeforces.com/problemset/problem/1791/C)
+- [Problem E](https://codeforces.com/problemset/problem/1520/D)
+
